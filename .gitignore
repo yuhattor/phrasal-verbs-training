@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Marp output
+*.pptx
+*.pdf
+*.html
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp 
+
+
+**/.env
