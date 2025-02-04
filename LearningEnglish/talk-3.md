@@ -5,7 +5,7 @@ John: Hey George, did you **stop by** that new ramen place? I've been wanting to
 <audio controls src="../output/conversation-3/sentence-001.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
  
 ジョージ、あの新しいラーメン屋に立ち寄った？あそこで食べたかったんだ。
 
@@ -23,7 +23,7 @@ John: Hey George, did you **stop by** that new ramen place? I've been wanting to
   - 「家の外で」という意味を表現
   - 「通常の場所（家）から出て」という空間的な移動を示す
   - 「普段の習慣から外れて」という意味合いも含む
-</p>
+
 </details><br><br> 
 
 George: Actually, I did! But don't get too excited - it's a total **rip off**. The noodles were starting to **wear out** my jaw, they were so chewy.
@@ -31,7 +31,7 @@ George: Actually, I did! But don't get too excited - it's a total **rip off**. T
 <audio controls src="../output/conversation-3/sentence-002.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 実は行ったんだ！でも期待しないでほしい - 完全に法外な値段だったよ。麺があまりにも硬くて顎が疲れてきちゃったよ。
 
@@ -48,7 +48,7 @@ George: Actually, I did! But don't get too excited - it's a total **rip off**. T
   - 「完全に」という完了・極限状態を表現
   - エネルギーや体力が「尽きる」までという意味
   - 物理的な消耗と精神的な疲労の両方に使える
-</p>
+
 </details><br><br> 
 
 John: That's disappointing. I **came across** their reviews online and they seemed good. Speaking of food, want to **hang around** after the meeting? I need to **talk over** some Copilot features with you.
@@ -56,7 +56,7 @@ John: That's disappointing. I **came across** their reviews online and they seem
 <audio controls src="../output/conversation-3/sentence-003.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 残念だね。オンラインでレビューを見つけたんだけど、良さそうに見えたのに。ところで、食事の話と言えば、ミーティングの後に少し残らない？Copilotの機能について話し合いたいことがあるんだ。
 
@@ -80,7 +80,7 @@ John: That's disappointing. I **came across** their reviews online and they seem
   - 「上から下まで」という網羅的な意味
   - 詳しく議論する、徹底的に話し合う
   - 一方的な会話ではなく、双方向のディスカッション
-</p>
+
 </details><br><br> 
 
 George: Sure! Just let me **wrap up** this documentation first. By the way, did you hear about that developer who tried to **get away with** using GPT-4 for all their code reviews?
@@ -88,7 +88,7 @@ George: Sure! Just let me **wrap up** this documentation first. By the way, did 
 <audio controls src="../output/conversation-3/sentence-004.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 いいよ！ちょっとこのドキュメントを片付けさせてくれ。そういえば、GPT-4を使ってコードレビューを全部済ませようとした開発者の話、聞いた？
 
@@ -107,7 +107,7 @@ George: Sure! Just let me **wrap up** this documentation first. By the way, did 
   - 本来なら罰せられるべきことを、うまく避ける
   - やや否定的なニュアンス
   - 倫理的にグレーな行為に対して使われることが多い
-</p>
+
 </details><br><br> 
 
 John: Yeah, it totally **fell apart** when the code started to **come apart**! You can't just **put down** human review. Though I have to admit, AI has really started to **grow on** me.
@@ -115,7 +115,7 @@ John: Yeah, it totally **fell apart** when the code started to **come apart**! Y
 <audio controls src="../output/conversation-3/sentence-005.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 うん、コードがめちゃくちゃになった時に完全に崩壊したんだよね！人間のレビューを軽視するわけにはいかないよ。でも認めざるを得ないけど、AIのことを段々好きになってきたんだ。
 
@@ -140,7 +140,7 @@ John: Yeah, it totally **fell apart** when the code started to **come apart**! Y
   - 「付着する」という物理的な意味から
   - 徐々に親しみや愛着が増していく様子
   - 最初は好きではなかったものへの感情の変化を表現
-</p>
+
 </details><br><br> 
 
 George: Same here! Remember when we used to **look down on** AI assistance? Now I can't imagine having to **do over** all that boilerplate code manually.
@@ -148,7 +148,7 @@ George: Same here! Remember when we used to **look down on** AI assistance? Now 
 <audio controls src="../output/conversation-3/sentence-006.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 私もだよ！AIアシスタントを見下していた時のことを覚えてる？今じゃ、ボイラープレートコードを手作業でやり直すなんて考えられないよ。
 
@@ -166,7 +166,7 @@ George: Same here! Remember when we used to **look down on** AI assistance? Now 
   - 「最初から最後まで」という完全性
   - 「上から下まで」という網羅的な意味
   - 完全にリセットして新しく始めるニュアンス
-</p>
+
 </details><br><br> 
 
 John: True! Though sometimes I **doze off** when watching AI coding tutorials. Hey, did you **find out** what happened with yesterday's deployment?
@@ -174,7 +174,7 @@ John: True! Though sometimes I **doze off** when watching AI coding tutorials. H
 <audio controls src="../output/conversation-3/sentence-007.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 そうだね！でもAIコーディングのチュートリアルを見てると時々居眠りしちゃうんだ。そういえば、昨日のデプロイメントで何が起きたか分かった？
 
@@ -193,7 +193,7 @@ John: True! Though sometimes I **doze off** when watching AI coding tutorials. H
   - 情報や真実を明らかにする
   - 調査や探索の結果として得られる発見
   - 意図的な情報収集のニュアンス
-</p>
+
 </details><br><br> 
 
 George: Oh man, the server **broke down** completely. We had to **call off** the release and **straighten out** all the CI/CD pipelines. Sarah had to **stay up** all night to **clear up** the issues.
@@ -201,7 +201,7 @@ George: Oh man, the server **broke down** completely. We had to **call off** the
 <audio controls src="../output/conversation-3/sentence-008.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 ああ、サーバーが完全にダウンしちゃったんだ。リリースを中止して、CI/CDパイプラインを全部整理し直さないといけなかったんだ。サラは問題を解決するために一晩中起きていなければならなかったよ。
 
@@ -239,7 +239,7 @@ George: Oh man, the server **broke down** completely. We had to **call off** the
   - 「きれいに」「完全に」という完了の意味
   - 問題や混乱を完全に解決する
   - 最終的な解決を示す
-</p>
+
 </details><br><br> 
 
 John: That's rough. We should probably **think over** our deployment strategy. I don't want to **let down** the team again.
@@ -247,7 +247,7 @@ John: That's rough. We should probably **think over** our deployment strategy. I
 <audio controls src="../output/conversation-3/sentence-009.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 それは大変だったね。デプロイメント戦略について考え直した方がいいかもね。もうチームを失望させたくないんだ。
 
@@ -266,7 +266,7 @@ John: That's rough. We should probably **think over** our deployment strategy. I
   - 期待や信頼を裏切る
   - 感情的な「落胆」を引き起こす
   - 責任や義務を果たせないことを示す
-</p>
+
 </details><br><br> 
 
 George: Agreed. We need to **cut down** on these incidents. By the way, I'm planning to **take off** early today - need to **see off** my sister at the airport.
@@ -274,7 +274,7 @@ George: Agreed. We need to **cut down** on these incidents. By the way, I'm plan
 <audio controls src="../output/conversation-3/sentence-010.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 そうだね。こういった事故を減らさないとね。そういえば、今日は早めに退社する予定なんだ - 空港で妹を見送らないといけないんだ。
 
@@ -301,7 +301,7 @@ George: Agreed. We need to **cut down** on these incidents. By the way, I'm plan
   - 別れの場面で使用
   - 相手の出発に付き添う行為
   - 感情的な別れの儀式的な側面を持つ
-</p>
+
 </details><br><br> 
 
 John: No problem! Before you go, can you help me **fill out** these GitHub Enterprise forms? I keep **putting off** the paperwork.
@@ -309,7 +309,7 @@ John: No problem! Before you go, can you help me **fill out** these GitHub Enter
 <audio controls src="../output/conversation-3/sentence-011.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 問題ないよ！行く前に、GitHub Enterpriseのフォームの記入を手伝ってくれない？書類仕事を先延ばしにしてたんだ。
 
@@ -328,7 +328,7 @@ John: No problem! Before you go, can you help me **fill out** these GitHub Enter
   - 時間的な延期を表現
   - 通常、義務や責任を避ける文脈で使用
   - やや否定的なニュアンスを持つ
-</p>
+
 </details><br><br> 
 
 George: Sure, just **hold on** a second. Oh, and don't forget to **reach out to** the new interns - they're supposed to **turn up** tomorrow.
@@ -336,7 +336,7 @@ George: Sure, just **hold on** a second. Oh, and don't forget to **reach out to*
 <audio controls src="../output/conversation-3/sentence-012.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 いいよ、ちょっと待ってね。あ、そうそう、新しいインターンに連絡するのを忘れないでね - 明日来る予定なんだ。
 
@@ -363,7 +363,7 @@ George: Sure, just **hold on** a second. Oh, and don't forget to **reach out to*
   - 予定や期待通りに出現する
   - やや予測可能な出現を示す
   - カジュアルな文脈で使用
-</p>
+
 </details><br><br> 
 
 John: Right! I need to **draw up** their onboarding documents. I hope they don't **drop out** like the last batch.
@@ -371,7 +371,7 @@ John: Right! I need to **draw up** their onboarding documents. I hope they don't
 <audio controls src="../output/conversation-3/sentence-013.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 そうだ！オンボーディングの書類を作成しないと。前回のグループのように途中で辞めないといいんだけど。
 
@@ -390,7 +390,7 @@ John: Right! I need to **draw up** their onboarding documents. I hope they don't
   - グループや組織から離脱する
   - 通常、否定的なニュアンス
   - 自発的な離脱を示唆
-</p>
+
 </details><br><br> 
 
 George: They won't if we properly **bring them along**. Just make sure to **open up** about team culture and **speak up** when they need guidance.
@@ -398,7 +398,7 @@ George: They won't if we properly **bring them along**. Just make sure to **open
 <audio controls src="../output/conversation-3/sentence-014.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 私たちが適切に指導すれば大丈夫だよ。チームの文化について率直に話して、指導が必要な時にはしっかり声を上げることが大切だよ。
 
@@ -425,7 +425,7 @@ George: They won't if we properly **bring them along**. Just make sure to **open
   - 積極的に意見を表明する
   - 自信を持って発言する
   - 建設的な提案や懸念の表明を示す
-</p>
+
 </details><br><br> 
 
 John: Good point! Well, I should **wind up** this meeting. Need to **check out** those PR reviews before they **pile up**.
@@ -433,7 +433,7 @@ John: Good point! Well, I should **wind up** this meeting. Need to **check out**
 <audio controls src="../output/conversation-3/sentence-015.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 その通りだね！じゃあ、このミーティングを終わりにしようか。PRレビューが溜まる前に確認しないと。
 
@@ -460,7 +460,7 @@ John: Good point! Well, I should **wind up** this meeting. Need to **check out**
   - 徐々に量が増加する
   - 通常、否定的なニュアンス
   - 管理が必要な状況を示唆
-</p>
+
 </details><br><br> 
 
 George: Alright, I'll **get around to** those deployment fixes tomorrow. Don't let the stress **eat into** your weekend!
@@ -468,7 +468,7 @@ George: Alright, I'll **get around to** those deployment fixes tomorrow. Don't l
 <audio controls src="../output/conversation-3/sentence-016.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 了解！デプロイメントの修正は明日やることにするよ。ストレスを週末に持ち込まないでね！
 
@@ -487,7 +487,7 @@ George: Alright, I'll **get around to** those deployment fixes tomorrow. Don't l
   - 「徐々に浸食していく」という否定的な影響を表現
   - 時間やリソースが徐々に失われていく様子
   - 通常、望ましくない影響を示す
-</p>
+
 </details><br><br> 
 
 John: Thanks! Let's **carry out** these improvements next sprint. See you tomorrow!
@@ -495,7 +495,7 @@ John: Thanks! Let's **carry out** these improvements next sprint. See you tomorr
 <audio controls src="../output/conversation-3/sentence-017.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 ありがとう！次のスプリントでこれらの改善を実施しよう。また明日ね！
 
@@ -506,5 +506,5 @@ John: Thanks! Let's **carry out** these improvements next sprint. See you tomorr
   - 計画を実際の行動に移す
   - 完全な実行を示す
   - プロジェクトや計画の実現を表現
-</p>
+
 </details><br><br> 

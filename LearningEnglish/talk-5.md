@@ -5,7 +5,7 @@ John: "Hey George, did you hear about the new AI features that are going to **ta
 <audio controls src="../output/conversation-5/sentence-001.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 ねぇジョージ、開発ワークフローを支配することになる新しいAI機能について聞いた？
 
@@ -15,7 +15,7 @@ John: "Hey George, did you hear about the new AI features that are going to **ta
   - 「上から覆い被さる」という物理的な動作から
   - 「完全に制御を握る」という支配の意味に発展
   - 既存のものを「上書き」するようなニュアンス
-</p>
+
 </details><br><br> 
 
 George: "Yeah, I can't wait to see how it'll **usher in** a new era of development. By the way, how did your date **go off** last night?"
@@ -23,7 +23,7 @@ George: "Yeah, I can't wait to see how it'll **usher in** a new era of developme
 <audio controls src="../output/conversation-5/sentence-002.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 ああ、それが開発の新時代の幕開けとなるのが待ちきれないよ。そういえば、昨日のデートはどうだった？
 
@@ -38,7 +38,7 @@ George: "Yeah, I can't wait to see how it'll **usher in** a new era of developme
 - offの感覚：
   - 「離れていく」という基本的な動きから
   - 「計画通りに進む/進まない」という結果の評価を含む
-</p>
+
 </details><br><br> 
 
 John: "Oh man, don't even **ask for** details. We completely **fell out** over dinner when she started criticizing GitHub Copilot!"
@@ -46,7 +46,7 @@ John: "Oh man, don't even **ask for** details. We completely **fell out** over d
 <audio controls src="../output/conversation-5/sentence-003.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 いや、詳細は聞かないでくれよ。彼女がGitHub Copilotを批判し始めて、夕食で完全に喧嘩になっちゃったんだ！
 
@@ -61,7 +61,7 @@ John: "Oh man, don't even **ask for** details. We completely **fell out** over d
 - outの感覚：
   - 「良好な関係から外れる」
   - 「調和した状態から離れる」という意味
-</p>
+
 </details><br><br> 
 
 George: "No way! Did you **tell her off**?"
@@ -69,7 +69,7 @@ George: "No way! Did you **tell her off**?"
 <audio controls src="../output/conversation-5/sentence-004.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 まさか！彼女を叱りつけたの？
 
@@ -79,7 +79,7 @@ George: "No way! Did you **tell her off**?"
   - 「遠ざける」という物理的な動作から
   - 「強く否定的な感情をぶつける」という意味に
   - 相手との距離を置くような感覚
-</p>
+
 </details><br><br> 
 
 John: "I wanted to, but I had to **abide by** restaurant etiquette. I just **pulled out** my wallet and **took out** cash for the bill before things could **boil over**."
@@ -87,7 +87,7 @@ John: "I wanted to, but I had to **abide by** restaurant etiquette. I just **pul
 <audio controls src="../output/conversation-5/sentence-005.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 そうしたかったけど、レストランのマナーは守らないとね。事態が収拾つかなくなる前に、財布を取り出してお金を出したんだ。
 
@@ -112,7 +112,7 @@ John: "I wanted to, but I had to **abide by** restaurant etiquette. I just **pul
 - overの感覚：
   - 「容器から溢れ出る」という具体的なイメージから
   - 感情が制御できなくなる様子を表現
-</p>
+
 </details><br><br> 
 
 George: "That's rough. Let's **go back** to the AI topic. I heard Microsoft is trying to **grow into** the AI market even more."
@@ -120,7 +120,7 @@ George: "That's rough. Let's **go back** to the AI topic. I heard Microsoft is t
 <audio controls src="../output/conversation-5/sentence-006.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 それは大変だったね。AIの話題に戻ろう。MicrosoftはAI市場でさらに成長しようとしているって聞いたよ。
 
@@ -135,7 +135,7 @@ George: "That's rough. Let's **go back** to the AI topic. I heard Microsoft is t
 - intoの感覚：
   - 「内部への移動」を表す
   - 「新しい状態や役割に徐々に適応・発展していく」
-</p>
+
 </details><br><br> 
 
 John: "True. We can't let this opportunity **get out of** our hands. Speaking of which, can you **pass on** those CI/CD documentation updates to the team?"
@@ -143,7 +143,7 @@ John: "True. We can't let this opportunity **get out of** our hands. Speaking of
 <audio controls src="../output/conversation-5/sentence-007.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 そうだね。このチャンスを逃すわけにはいかない。そういえば、CI/CDドキュメントの更新をチームに伝えてくれる？
 
@@ -158,7 +158,7 @@ John: "True. We can't let this opportunity **get out of** our hands. Speaking of
 - onの感覚：
   - 「前方への継続的な動き」を表現
   - 「次の人へ」という連鎖的な伝達のイメージ
-</p>
+
 </details><br><br> 
 
 George: "Sure, but I need to **cut off** some redundant parts first. By the way, did you **drop in** on yesterday's standup?"
@@ -166,7 +166,7 @@ George: "Sure, but I need to **cut off** some redundant parts first. By the way,
 <audio controls src="../output/conversation-5/sentence-008.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 いいよ、でも最初に冗長な部分を削除する必要があるね。そういえば、昨日のスタンドアップミーティングに立ち寄った？
 
@@ -181,7 +181,7 @@ George: "Sure, but I need to **cut off** some redundant parts first. By the way,
 - inの感覚：
   - 「内部に入る」という基本的な動作
   - 「気軽に」「予定外に」という非公式さを含む
-</p>
+
 </details><br><br> 
 
 John: "No, I had to **turn down** the meeting. My neighbor **ran over** my mailbox, and I had to **answer for** the property damage."
@@ -189,7 +189,7 @@ John: "No, I had to **turn down** the meeting. My neighbor **ran over** my mailb
 <audio controls src="../output/conversation-5/sentence-009.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 いや、ミーティングは断らないといけなかったんだ。隣人が郵便ポストを轢いてしまって、その物損の対応をしないといけなかったんだ。
 
@@ -210,7 +210,7 @@ John: "No, I had to **turn down** the meeting. My neighbor **ran over** my mailb
 - forの感覚：
   - 「〜のために」という目的を示す
   - 「責任の所在」を明確にする
-</p>
+
 </details><br><br> 
 
 George: "That's crazy! Did you **tell on** them to the HOA?"
@@ -218,7 +218,7 @@ George: "That's crazy! Did you **tell on** them to the HOA?"
 <audio controls src="../output/conversation-5/sentence-010.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 それはひどい！管理組合に告げ口した？
 
@@ -227,7 +227,7 @@ George: "That's crazy! Did you **tell on** them to the HOA?"
 - onの感覚：
   - 「〜に向かって」という方向性
   - 「相手に不利な情報を伝える」というニュアンス
-</p>
+
 </details><br><br> 
 
 John: "Nah, I decided to **stick by** my principles and handle it directly. They offered to **give away** their parking spot to me as compensation."
@@ -235,7 +235,7 @@ John: "Nah, I decided to **stick by** my principles and handle it directly. They
 <audio controls src="../output/conversation-5/sentence-011.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 いや、自分の信念を貫いて直接対応することにしたんだ。彼らは補償として駐車スペースを譲ってくれることになったよ。
 
@@ -250,7 +250,7 @@ John: "Nah, I decided to **stick by** my principles and handle it directly. They
 - awayの感覚：
   - 「離れていく」という基本的な動作から
   - 「所有権を手放す」という意味に
-</p>
+
 </details><br><br> 
 
 John: "Oh, and before I forget - we need to **use up** our training budget before Q4. Want to **go along with** me to that AI conference?"
@@ -258,7 +258,7 @@ John: "Oh, and before I forget - we need to **use up** our training budget befor
 <audio controls src="../output/conversation-5/sentence-012.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 そうそう、忘れる前に - Q4までにトレーニング予算を使い切らないといけないんだ。AIカンファレンスに一緒に行かない？
 
@@ -273,7 +273,7 @@ John: "Oh, and before I forget - we need to **use up** our training budget befor
 - along withの感覚：
   - 「〜に沿って」という空間的な概念から
   - 「同じ方向に進む」「付き合う」という意味に
-</p>
+
 </details><br><br> 
 
 George: "Sure! Just let me **put on** my calendar. My ex keeps trying to **be after** me about our **break up**, so I could use the distraction."
@@ -281,7 +281,7 @@ George: "Sure! Just let me **put on** my calendar. My ex keeps trying to **be af
 <audio controls src="../output/conversation-5/sentence-013.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 いいね！カレンダーに入れるよ。元カノが別れの件で私を追い回してくるから、気を紛らわせるのにちょうどいいよ。
 
@@ -303,7 +303,7 @@ George: "Sure! Just let me **put on** my calendar. My ex keeps trying to **be af
   - 「上へ」という方向から
   - 「完全に」という完了の意味
   - 「関係が壊れる」というニュアンス
-</p>
+
 </details><br><br> 
 
 John: "Perfect! And hey, don't let anyone **knock back** your spirits. We **have in** our team the best developers anyway!"
@@ -311,7 +311,7 @@ John: "Perfect! And hey, don't let anyone **knock back** your spirits. We **have
 <audio controls src="../output/conversation-5/sentence-014.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 完璧だね！それに、誰にも元気を失わせないでよ。私たちのチームには最高の開発者がいるんだから！
 
@@ -326,7 +326,7 @@ John: "Perfect! And hey, don't let anyone **knock back** your spirits. We **have
 - inの感覚：
   - 「内部に」という空間的な概念
   - 「所属している」「含まれている」という意味
-</p>
+
 </details><br><br> 
 
 George: "Thanks, man. You always know how to **cheer me up!**"
@@ -334,7 +334,7 @@ George: "Thanks, man. You always know how to **cheer me up!**"
 <audio controls src="../output/conversation-5/sentence-015.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 ありがとう。君はいつも私を元気づけてくれるね！
 
@@ -345,5 +345,5 @@ George: "Thanks, man. You always know how to **cheer me up!**"
   - 「気分を上げる」という心理的な変化を表現
   - 「落ち込んだ状態から上向きに」というニュアンス
   - 友好的で前向きな支援を示す
-</p>
+
 </details><br><br> 

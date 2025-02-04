@@ -12,7 +12,7 @@ Hey folks! Ever feel like security is something you just **put off** until later
 <audio controls src="../output/conversation-2/sentence-001.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 みなさん！セキュリティって後回しにしがちじゃないですか？さあ、それを簡単にしていきましょう！
 
@@ -29,14 +29,14 @@ Hey folks! Ever feel like security is something you just **put off** until later
   - 「前に向かって」という継続的な動きを表現
   - 「進行中」という状態を示す
   - withは「〜と共に」という意味で、タスクと共に前に進むイメージ
-</p>
+
 </details><br><br> 
 
 Today, I'll show you how GitHub Advanced Security helps you **stay out of** trouble, **deal with** vulnerabilities, and **catch up** with best practices—all while keeping your workflow smooth.  
 
 <audio controls src="../output/conversation-2/sentence-002.mp3"></audio>
 <details><summary>Details</summary>
-<p>
+
 
 今日は、GitHub Advanced Securityがどのようにしてトラブルを避け、脆弱性に対処し、ベストプラクティスに追いつくのを助けてくれるかをお見せします—ワークフローを円滑に保ちながら。
 
@@ -57,7 +57,7 @@ Today, I'll show you how GitHub Advanced Security helps you **stay out of** trou
 - upの感覚：
   - 「上へ」という方向性から、目標レベルに達するイメージ
   - 遅れを取り戻すという動的な意味
-</p>
+
 </details><br><br> 
 
 I know security can feel overwhelming, but don't **back out** now! We'll break it down step by step. So, let's **set out** on this journey to secure coding!  
@@ -65,7 +65,7 @@ I know security can feel overwhelming, but don't **back out** now! We'll break i
 <audio controls src="../output/conversation-2/sentence-003.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 セキュリティは圧倒的に感じるかもしれませんが、今になって降りないでください！段階的に分解していきましょう。では、セキュアなコーディングへの旅に出発しましょう！
 
@@ -82,7 +82,7 @@ I know security can feel overwhelming, but don't **back out** now! We'll break i
   - 「外へ」という方向性
   - 新しい冒険や挑戦の開始を示す
   - 目的を持った行動の開始を表現
-</p>
+
 </details><br><br> 
 
 ---
@@ -102,7 +102,7 @@ No more **falling behind** on security patches. Instead of waiting for an audito
 <audio controls src="../output/conversation-2/sentence-006.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 コードを書いた後で、セキュリティホールだらけだと分かるなんて、悪夢ですよね！😱
 
@@ -144,7 +144,7 @@ GitHubのCode Scanningは、リアルタイムで脆弱性を**追跡します**
   - 「上へ」という方向性から、新しいことを始める
   - 積極的に取り入れるニュアンス
   - 習慣や活動を開始する
-</p>
+
 </details><br><br> 
 
 ---
@@ -156,7 +156,7 @@ Ever **run into** a situation where an API key or password ends up in your repo?
 <audio controls src="../output/conversation-2/sentence-007.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 APIキーやパスワードがリポジトリに入ってしまうような状況に遭遇したことはありますか？誰にでも起こり得ることです。
 
@@ -166,7 +166,7 @@ APIキーやパスワードがリポジトリに入ってしまうような状�
   - 「中へ」という方向性から、予期せぬ状況との遭遇
   - 偶発的な出会いを示す
   - 通常はネガティブな状況で使用
-</p>
+
 </details><br><br> 
 
 GitHub Advanced Security **steps in** to **screen out** those secrets before they become a problem. If you accidentally commit something sensitive, it'll **catch on** fast and warn you.  
@@ -174,7 +174,7 @@ GitHub Advanced Security **steps in** to **screen out** those secrets before the
 <audio controls src="../output/conversation-2/sentence-008.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 GitHub Advanced Securityが介入して、問題になる前にそれらの機密情報を選別します。誤って機密情報をコミットしても、すぐに検知して警告してくれます。
 
@@ -198,7 +198,7 @@ GitHub Advanced Securityが介入して、問題になる前にそれらの機�
   - 「接続」「継続」を示す
   - 状況を把握する
   - 素早い理解や認識を表現
-</p>
+
 </details><br><br> 
 
 So, instead of **looking back** and regretting it, let's **get ahead of** leaks before they happen!  
@@ -206,7 +206,7 @@ So, instead of **looking back** and regretting it, let's **get ahead of** leaks 
 <audio controls src="../output/conversation-2/sentence-009.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 だから、後悔して振り返るのではなく、漏洩が起こる前に先手を打ちましょう！
 
@@ -223,7 +223,7 @@ So, instead of **looking back** and regretting it, let's **get ahead of** leaks 
   - 「前方に」という空間的な位置
   - 問題より先に行動する
   - 予防的な対応を示す
-</p>
+
 </details><br><br> 
 
 ---
@@ -235,7 +235,7 @@ Old dependencies can **wear down** your security, and it's easy to **fall behind
 <audio controls src="../output/conversation-2/sentence-010.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 古い依存関係はセキュリティを低下させ、更新が遅れがちになります。
 
@@ -252,7 +252,7 @@ Old dependencies can **wear down** your security, and it's easy to **fall behind
   - 「後ろに」という空間的な位置関係
   - 期待される進度や状態に達していない
   - 消極的なニュアンス
-</p>
+
 </details><br><br> 
 
 GitHub's Dependency Review helps you **figure out** which packages have vulnerabilities and whether it's safe to upgrade.  
@@ -260,7 +260,7 @@ GitHub's Dependency Review helps you **figure out** which packages have vulnerab
 <audio controls src="../output/conversation-2/sentence-011.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 GitHubの依存関係レビューは、どのパッケージに脆弱性があるか、アップグレードが安全かどうかを理解する手助けをします。
 
@@ -270,7 +270,7 @@ GitHubの依存関係レビューは、どのパッケージに脆弱性があ�
   - 「外へ」という方向性から、答えや解決策を見つけ出す
   - 複雑な状況から明確な理解を得る
   - 問題解決のプロセスを示す
-</p>
+
 </details><br><br> 
 
 Don't **settle for** insecure libraries! This tool ensures you don't **mess up** by pulling in risky dependencies.  
@@ -278,7 +278,7 @@ Don't **settle for** insecure libraries! This tool ensures you don't **mess up**
 <audio controls src="../output/conversation-2/sentence-012.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 安全でないライブラリに妥協しないでください！このツールは、リスクのある依存関係を取り込んで失敗することを防ぎます。
 
@@ -295,7 +295,7 @@ Don't **settle for** insecure libraries! This tool ensures you don't **mess up**
   - 「完全に」という程度を示す
   - 状況を混乱させる
   - ネガティブな結果を強調
-</p>
+
 </details><br><br> 
 
 ---
@@ -307,7 +307,7 @@ Enough talk—let's **jump at** a live demo!
 <audio controls src="../output/conversation-2/sentence-013.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 もう十分話しました—ライブデモに飛び込みましょう！
 
@@ -317,7 +317,7 @@ Enough talk—let's **jump at** a live demo!
   - 「〜に向かって」という方向性
   - 機会を積極的に掴む
   - 熱心さや即座の行動を示す
-</p>
+
 </details><br><br> 
 
 I'll **walk through** how GitHub Advanced Security catches a vulnerability before it can **break into** your production environment. Watch how easy it is to **fix up** issues and **get across** security best practices!  
@@ -325,7 +325,7 @@ I'll **walk through** how GitHub Advanced Security catches a vulnerability befor
 <audio controls src="../output/conversation-2/sentence-014.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 GitHub Advanced Securityが、脆弱性が本番環境に侵入する前にどのように検知するかを説明します。問題を修正し、セキュリティのベストプラクティスを伝えることがいかに簡単かをご覧ください！
 
@@ -356,7 +356,7 @@ GitHub Advanced Securityが、脆弱性が本番環境に侵入する前にど�
   - 「向こう側へ」という空間的な移動
   - 情報や考えを相手に届ける
   - コミュニケーションの成功を示す
-</p>
+
 </details><br><br> 
 
 ---
@@ -368,7 +368,7 @@ Security shouldn't be something you **put off** or **pass by**. With GitHub Adva
 <audio controls src="../output/conversation-2/sentence-015.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 セキュリティは後回しにしたり、見過ごしたりするものであってはいけません。GitHub Advanced Securityを使えば、最新の状態を保ち、脆弱性に対抗し、自信を持ってコーディングを続けることができます。
 
@@ -406,14 +406,14 @@ Security shouldn't be something you **put off** or **pass by**. With GitHub Adva
   - 「前へ」という継続的な動き
   - 困難があっても進み続ける
   - 粘り強さを示す
-</p>
+
 </details><br><br> 
 
 So, let's **take on** secure development together—no more last-minute security headaches! Ready to **set up** GitHub Advanced Security for your team? Let's do it! 🚀  
 
 <audio controls src="../output/conversation-2/sentence-016.mp3"></audio>
 <details><summary>Details</summary>
-<p>
+
 
 では、一緒にセキュアな開発に取り組みましょう—もう土壇場でのセキュリティの頭痛の種は必要ありません！チームのためにGitHub Advanced Securityをセットアップする準備はできましたか？やりましょう！🚀
 
@@ -430,5 +430,5 @@ So, let's **take on** secure development together—no more last-minute security
   - 「上へ」という方向性から、準備完了の状態へ
   - システムやツールを使用可能な状態にする
   - 開始のための準備を示す
-</p>
+
 </details><br><br> 

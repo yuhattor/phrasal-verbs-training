@@ -14,7 +14,6 @@ I won't **hold back**—this tool will **blow you away**! 🚀
 <audio controls src="../output/conversation-1/sentence-001.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
 
 みなさん、こんにちは！GitHub Copilotの機能をお見せして、皆さんの一日を明るくしたいと思います！
 遠慮なく言いますが、このツールには驚かされることでしょう！
@@ -42,7 +41,7 @@ I won't **hold back**—this tool will **blow you away**! 🚀
 - awayの感覚：
   - 「離れて」という方向性から、「完全に」という強意
   - 驚きで「吹き飛ばされる」という比喩的表現
-</p>
+
 </details><br><br>
 
 GitHub Copilot is not just an AI tool; it's like having a coding buddy who can **keep up** with your thoughts and **sort out** complex problems. Whether you're a seasoned engineer or just getting started, Copilot can **work out** tricky code challenges, **point out** optimizations, and **help you get through** debugging.  
@@ -50,7 +49,7 @@ GitHub Copilot is not just an AI tool; it's like having a coding buddy who can *
 <audio controls src="../output/conversation-1/sentence-002.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 GitHub Copilotは単なるAIツールではありません。あなたの考えについていき、複雑な問題を整理できるコーディングパートナーのようなものです。
 ベテランエンジニアでも初心者でも、Copilotは難しいコードの課題を解決し、最適化を指摘し、デバッグを手助けします。
@@ -84,7 +83,7 @@ GitHub Copilotは単なるAIツールではありません。あなたの考え�
 - throughの感覚：
   - 「通過する」という基本的な意味から、「完遂する」
   - 困難を「突き抜ける」というニュアンス
-</p>
+
 </details><br><br>
 
 In this talk, I'll **walk you through** how Copilot works, how you can **take in** its suggestions, and when to **stick with** its recommendations. Plus, I'll **call out** some best practices to ensure you're getting the most out of it.  
@@ -92,7 +91,7 @@ In this talk, I'll **walk you through** how Copilot works, how you can **take in
 <audio controls src="../output/conversation-1/sentence-003.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 このトークでは、Copilotの仕組み、提案の取り入れ方、推奨事項の活用方法について説明します。
 さらに、最大限活用するためのベストプラクティスも指摘していきます。
@@ -120,14 +119,14 @@ In this talk, I'll **walk you through** how Copilot works, how you can **take in
 - outの感覚：
   - 「外に向かって」という方向性から、「明確に示す」意味
   - 注目を集めるように声を上げる様子を表現
-</p>
+
 </details><br><br>
 
 By the end of this session, you'll **find out** how Copilot can **fit in** with your workflow and **count on** it to boost your productivity. Let's **dive in**!  
 <audio controls src="../output/conversation-1/sentence-004.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 このセッションの終わりには、Copilotがあなたのワークフローにどう適合し、生産性向上にどう役立つかがわかるでしょう。
 さあ、始めましょう！
@@ -155,7 +154,7 @@ By the end of this session, you'll **find out** how Copilot can **fit in** with 
 - inの感覚：
   - 「内側へ」という方向性から、「完全に入り込む」という意味
   - 躊躇なく取り組む積極的な姿勢を表現
-</p>
+
 </details><br><br>
 
 ---
@@ -166,7 +165,7 @@ GitHub Copilot is powered by OpenAI Model, and it can **take in** the context of
 <audio controls src="../output/conversation-1/sentence-005.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 GitHub CopilotはOpenAI Modelを活用しており、コードの文脈を理解して、関数全体の提案、バグの修正、さらには構文エラーの解決までできます。
 
@@ -181,7 +180,7 @@ GitHub CopilotはOpenAI Modelを活用しており、コードの文脈を理解
 - outの感覚：
   - 「外に出す」という方向性から、「問題を解消する」意味
   - 混乱した状態から秩序を作り出す様子を表現
-</p>
+
 </details><br><br>
 
 ### Key Features  
@@ -193,7 +192,7 @@ GitHub CopilotはOpenAI Modelを活用しており、コードの文脈を理解
 <audio controls src="../output/conversation-1/sentence-006.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 主な機能：
 ✅ ベストプラクティスを自動的に参照
@@ -224,14 +223,14 @@ GitHub CopilotはOpenAI Modelを活用しており、コードの文脈を理解
 - outの感覚：
   - 「外に向かって」という方向性から、「明確に示す」意味
   - 重要な点に注意を向けさせる動作を表現
-</p>
+
 </details><br><br>
 
 For example, if you're struggling with a regex pattern, Copilot can **go through** your code and suggest a correct version. Need a quick function? Just start typing, and Copilot will **step in** with a full implementation!  
 <audio controls src="../output/conversation-1/sentence-007.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 例えば、正規表現パターンで困っているとき、Copilotはあなたのコードを確認して、正しいバージョンを提案できます。
 クイック関数が必要ですか？入力を始めるだけで、Copilotが完全な実装を提供します！
@@ -247,14 +246,14 @@ For example, if you're struggling with a regex pattern, Copilot can **go through
 - inの感覚：
   - 「内側に」という方向性から、「状況に参加する」という意味
   - 支援のために積極的に関与する様子を表現
-</p>
+
 </details><br><br>
 
 By **sticking to** best practices and **trying out** Copilot's suggestions, you can **stay ahead** in your development workflow.  
 <audio controls src="../output/conversation-1/sentence-008.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 ベストプラクティスを守り、Copilotの提案を試すことで、開発ワークフローを常に最先端に保つことができます。
 
@@ -275,7 +274,7 @@ By **sticking to** best practices and **trying out** Copilot's suggestions, you 
 - aheadの感覚：
   - 「前方に」という方向性から、「競争で優位に立つ」という意味
   - 常に最新・最先端であることを表現
-</p>
+
 </details><br><br>
 
 ---
@@ -287,7 +286,7 @@ To get the best out of Copilot, it's important to **keep up** with best practice
 <audio controls src="../output/conversation-1/sentence-009.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 Copilotを最大限活用するには、ベストプラクティスを継続的に実践することが重要です。以下がその方法です：
 
@@ -296,7 +295,7 @@ Copilotを最大限活用するには、ベストプラクティスを継続的�
 - upの感覚：
   - 「上を保つ」という方向性から、「水準を維持する」という意味
   - 継続的な努力を示す
-</p>
+
 </details><br><br>
 
 1️⃣ **Give in** to small, useful suggestions but always **go over** the code to verify.  
@@ -308,7 +307,7 @@ Copilotを最大限活用するには、ベストプラクティスを継続的�
 <audio controls src="../output/conversation-1/sentence-010.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 1️⃣ 小さな有用な提案は受け入れつつも、必ずコードを確認する
 2️⃣ Copilotが複数の選択肢を提示した場合は、異なるオプションを検討する
@@ -345,7 +344,7 @@ Copilotを最大限活用するには、ベストプラクティスを継続的�
 - offの感覚：
   - 「離れる」という方向性から、「完全に除去する」という意味
   - きれいに取り除く動作を表現
-</p>
+
 </details><br><br>
 
 Copilot is here to **help out**, but you're still in control. The best developers **take apart** suggestions, **sort out** what works, and **end up** with cleaner, more efficient code.  
@@ -353,7 +352,7 @@ Copilot is here to **help out**, but you're still in control. The best developer
 <audio controls src="../output/conversation-1/sentence-011.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 Copilotは支援するためにありますが、制御するのはあなたです。
 優れた開発者は提案を分析し、有効な部分を整理して、最終的にはより清潔で効率的なコードを作成します。
@@ -381,7 +380,7 @@ Copilotは支援するためにありますが、制御するのはあなたで�
 - upの感覚：
   - 「上がる」という方向性から、「最終的な状態に達する」という意味
   - プロセスの完了を表現
-</p>
+
 </details><br><br>
 
 ---
@@ -393,7 +392,7 @@ Let's **go ahead** and see Copilot in action!
 <audio controls src="../output/conversation-1/sentence-012.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 それでは、Copilotの実際の動作を見ていきましょう！
 
@@ -402,7 +401,7 @@ Let's **go ahead** and see Copilot in action!
 - aheadの感覚：
   - 「前方に」という方向性から、「前に進む」という意味
   - 躊躇なく行動を開始する様子を表現
-</p>
+
 </details><br><br>
 
 1️⃣ Start with an empty function.  
@@ -413,7 +412,7 @@ Let's **go ahead** and see Copilot in action!
 <audio controls src="../output/conversation-1/sentence-013.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 1️⃣ 空の関数から始める
 2️⃣ コメントで必要な機能を説明する
@@ -431,7 +430,7 @@ Let's **go ahead** and see Copilot in action!
 - outの感覚：
   - 「外に出す」という方向性から、「実践して確認する」という意味
   - 実際に試してみる行動を表現
-</p>
+
 </details><br><br>
 
 For instance, if you need a sorting algorithm, Copilot will **come up** with an efficient approach. You can **opt for** its suggestion, or **go with** another method.  
@@ -439,7 +438,7 @@ For instance, if you need a sorting algorithm, Copilot will **come up** with an 
 <audio controls src="../output/conversation-1/sentence-014.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 例えば、ソートアルゴリズムが必要な場合、Copilotは効率的なアプローチを提案します。
 その提案を選択するか、別の方法を選ぶこともできます。
@@ -461,7 +460,7 @@ For instance, if you need a sorting algorithm, Copilot will **come up** with an 
 - withの感覚：
   - 「共に」という意味から、「一緒に進む」というニュアンス
   - 選択肢に同意して進む様子を表現
-</p>
+
 </details><br><br>
 
 This tool is great for prototyping, learning, and even **cleaning up** legacy code. Developers worldwide **count on** Copilot to **speed up** their workflows and **work out** tricky logic problems.  
@@ -469,7 +468,7 @@ This tool is great for prototyping, learning, and even **cleaning up** legacy co
 <audio controls src="../output/conversation-1/sentence-015.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 このツールは、プロトタイピング、学習、さらにはレガシーコードの整理にも最適です。
 世界中の開発者がワークフローの高速化や複雑な論理問題の解決にCopilotを活用しています。
@@ -497,7 +496,7 @@ This tool is great for prototyping, learning, and even **cleaning up** legacy co
 - outの感覚：
   - 「外に出す」という方向性から、「解決策を見つける」という意味
   - 問題から答えを導き出すプロセスを表現
-</p>
+
 </details><br><br>
 
 ---
@@ -519,7 +518,7 @@ By keeping these in mind, you can **get along** with Copilot and **make up** for
 <audio controls src="../output/conversation-1/sentence-018.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 Copilotは強力なツールですが、効果的に使用するには、いくつかのベストプラクティスを守る必要があります：
 
@@ -528,7 +527,7 @@ Copilotは強力なツールですが、効果的に使用するには、いく�
 - toの感覚：
   - 「向かって」という方向性から、「一貫して従う」という意味
   - 継続的な取り組みを示す
-</p>
+
 </details><br><br>
 
 ✅ **Look out for** potential security risks  
@@ -539,7 +538,7 @@ Copilotは強力なツールですが、効果的に使用するには、いく�
 <audio controls src="../output/conversation-1/sentence-019.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 ✅ 潜在的なセキュリティリスクに注意する
 ✅ 適用前に提案を確認する
@@ -569,7 +568,7 @@ Copilotは強力なツールですが、効果的に使用するには、いく�
 - outの感覚：
   - 「外に出す」という方向性から、「問題を解消する」意味
   - 混乱した状態から秩序を作り出す過程を表現
-</p>
+
 </details><br><br>
 
 By keeping these in mind, you can **get along** with Copilot and **make up** for its occasional mistakes. It's all about **working out** the best way to integrate AI into your workflow!  
@@ -577,7 +576,7 @@ By keeping these in mind, you can **get along** with Copilot and **make up** for
 <audio controls src="../output/conversation-1/sentence-020.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 これらを念頭に置くことで、Copilotとうまく付き合い、時々の間違いを補うことができます。
 AIをワークフローに統合する最適な方法を見つけ出すことが重要なのです！
@@ -599,7 +598,7 @@ AIをワークフローに統合する最適な方法を見つけ出すことが
 - outの感覚：
   - 「外に出す」という方向性から、「解決策を見つける」という意味
   - 最適な方法を導き出すプロセスを表現
-</p>
+
 </details><br><br>
 
 ---
@@ -611,7 +610,7 @@ We've covered a lot today, so let's **sum up**:
 <audio controls src="../output/conversation-1/sentence-021.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 今日は多くのことを扱いましたので、まとめてみましょう：
 
@@ -620,7 +619,7 @@ We've covered a lot today, so let's **sum up**:
 - upの感覚：
   - 「上げる」という方向性から、「集約する」という意味
   - 散らばった情報を一つにまとめる動作を表現
-</p>
+
 </details><br><br>
 
 - Copilot can **help out** with code generation, debugging, and optimization.  
@@ -628,7 +627,7 @@ We've covered a lot today, so let's **sum up**:
 - Best practices help you **get along** with AI assistance while **keeping up** quality.  
 
 <details><summary>Details</summary>
-<p>
+
 
 - Copilotはコード生成、デバッグ、最適化を支援できます。
 - 提案は必ず確認し、有効な部分を整理する必要があります。
@@ -663,7 +662,7 @@ We've covered a lot today, so let's **sum up**:
 - upの感覚：
   - 「上を保つ」という方向性から、「水準を維持する」という意味
   - 継続的な努力を示す
-</p>
+
 </details><br><br>
 
 If you haven't **signed up** for Copilot yet, now's the time to **go for** it! You'll be amazed at how it **fits in** with your workflow and **takes your coding to the next level**.  
@@ -672,7 +671,7 @@ If you haven't **signed up** for Copilot yet, now's the time to **go for** it! Y
 <audio controls src="../output/conversation-1/sentence-022.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 まだCopilotにサインアップしていない場合は、今がチャンスです！
 あなたのワークフローにどれだけフィットし、コーディングを次のレベルに引き上げるか、きっと驚くはずです。
@@ -700,7 +699,7 @@ If you haven't **signed up** for Copilot yet, now's the time to **go for** it! Y
 - toの感覚：
   - 「～に向かって」という方向性から、「より高い段階へ」という意味
   - 進歩や向上を表現
-</p>
+
 </details><br><br>
 
 Thanks for tuning in—now **go ahead** and start coding smarter with GitHub Copilot! 🚀  
@@ -708,7 +707,7 @@ Thanks for tuning in—now **go ahead** and start coding smarter with GitHub Cop
 <audio controls src="../output/conversation-1/sentence-023.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 ご視聴ありがとうございました。さあ、GitHub Copilotでよりスマートなコーディングを始めましょう！🚀
 
@@ -717,6 +716,6 @@ Thanks for tuning in—now **go ahead** and start coding smarter with GitHub Cop
 - aheadの感覚：
   - 「前方に」という方向性から、「前に進む」という意味
   - 躊躇なく行動を開始する様子を表現
-</p>
+
 </details><br><br>
   

@@ -5,7 +5,7 @@ John: Hey George, how's it **going on** with the new GitHub Copilot features?
 <audio controls src="../output/conversation-4/sentence-001.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 やあジョージ、新しいGitHub Copilotの機能はどう進んでる？
 
@@ -15,7 +15,7 @@ John: Hey George, how's it **going on** with the new GitHub Copilot features?
   - 「継続」や「進行」を表現
   - 「前に向かって」という方向性を示す
   - 物事が「続いている」状態を表現
-</p>
+
 </details><br><br> 
 
 George: Actually, it's **turning out** better than expected! Though I had to **put up with** some initial bugs.
@@ -23,7 +23,7 @@ George: Actually, it's **turning out** better than expected! Though I had to **p
 <audio controls src="../output/conversation-4/sentence-002.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 実は予想以上に良い感じだよ！最初のバグには我慢しなきゃいけなかったけど。
 
@@ -38,7 +38,7 @@ George: Actually, it's **turning out** better than expected! Though I had to **p
 - up withの感覚：
   - upは「対処する」という意味
   - withは「～と共に」という意味で、好ましくない状況と「付き合う」というニュアンス
-</p>
+
 </details><br><br> 
 
 John: Yeah, I heard some teams had to **cut out** certain features temporarily. Did you **come around** to using the new API?
@@ -46,7 +46,7 @@ John: Yeah, I heard some teams had to **cut out** certain features temporarily. 
 <audio controls src="../output/conversation-4/sentence-003.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 ああ、いくつかのチームは一時的に機能を削除しなきゃいけなかったって聞いたよ。新しいAPIを使うことには納得した？
 
@@ -61,7 +61,7 @@ John: Yeah, I heard some teams had to **cut out** certain features temporarily. 
 - aroundの感覚：
   - 「回り道をして」という物理的な動きが
   - 「考えを変えて」という心理的な変化を表現
-</p>
+
 </details><br><br> 
 
 George: I did! But let me **bring up** something interesting - I **fell for** the AI hype at first, but now I'm trying to **cool down** my expectations.
@@ -69,7 +69,7 @@ George: I did! But let me **bring up** something interesting - I **fell for** th
 <audio controls src="../output/conversation-4/sentence-004.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 そうだよ！でも面白いことを話させて - 最初はAIの誇大広告に騙されたけど、今は期待を抑えようとしてるんだ。
 
@@ -90,7 +90,7 @@ George: I did! But let me **bring up** something interesting - I **fell for** th
 - downの感覚：
   - 「下がる」という物理的な動きが
   - 「熱が下がる」→「興奮が収まる」という意味に
-</p>
+
 </details><br><br> 
 
 John: Don't **give up** yet! I **took after** my mentor's advice and started small. Want to **drop by** my desk later? I'll show you some tricks.
@@ -98,7 +98,7 @@ John: Don't **give up** yet! I **took after** my mentor's advice and started sma
 <audio controls src="../output/conversation-4/sentence-005.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 まだ諦めないで！メンターのアドバイスを見習って小さく始めたんだ。後で私の机に寄ってみない？コツを見せるよ。
 
@@ -119,7 +119,7 @@ John: Don't **give up** yet! I **took after** my mentor's advice and started sma
 - byの感覚：
   - 「そばを通る」という意味から
   - 「ついでに」「軽く」という気軽さを表現
-</p>
+
 </details><br><br> 
 
 George: Sure! But first, I need to **wash up** and **dress up** for that developer conference presentation. Can't **pass up** that opportunity!
@@ -127,7 +127,7 @@ George: Sure! But first, I need to **wash up** and **dress up** for that develop
 <audio controls src="../output/conversation-4/sentence-006.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 いいね！でもまず、開発者カンファレンスのプレゼンのために身だしなみを整えないと。そんなチャンスは逃せないよ！
 
@@ -148,7 +148,7 @@ George: Sure! But first, I need to **wash up** and **dress up** for that develop
 - upの感覚：
   - 「上を通り過ぎる」という物理的な動きが
   - 「機会を逃す」という意味に
-</p>
+
 </details><br><br> 
 
 John: Oh right! Don't let me **hold up** your preparation. By the way, did you hear Sarah decided to **step down** from the DevRel team?
@@ -156,7 +156,7 @@ John: Oh right! Don't let me **hold up** your preparation. By the way, did you h
 <audio controls src="../output/conversation-4/sentence-007.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 そうだった！準備の邪魔をしちゃいけないね。そういえば、サラがDevRelチームを降りることにしたって聞いた？
 
@@ -171,7 +171,7 @@ John: Oh right! Don't let me **hold up** your preparation. By the way, did you h
 - downの感覚：
   - 「下に降りる」という物理的な動きが
   - 「地位や役職を降りる」という意味に
-</p>
+
 </details><br><br> 
 
 George: No way! I need to **get over** that news. She always helped me **fend off** difficult questions during presentations.
@@ -179,7 +179,7 @@ George: No way! I need to **get over** that news. She always helped me **fend of
 <audio controls src="../output/conversation-4/sentence-008.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 まさか！そのニュースを受け入れるのに時間がかかりそうだ。プレゼンの時、彼女はいつも難しい質問をかわすのを手伝ってくれたのに。
 
@@ -194,7 +194,7 @@ George: No way! I need to **get over** that news. She always helped me **fend of
 - offの感覚：
   - 「離れた場所へ」という方向性が
   - 「避ける」「防ぐ」という意味に
-</p>
+
 </details><br><br> 
 
 John: Yeah, she could **turn into** a real lifesaver during tough situations. Speaking of which, did you **make up** your mind about that new CI/CD pipeline?
@@ -202,7 +202,7 @@ John: Yeah, she could **turn into** a real lifesaver during tough situations. Sp
 <audio controls src="../output/conversation-4/sentence-009.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 そうだね、彼女は困った時の救世主だったよ。そういえば、新しいCI/CDパイプラインについて決心はついた？
 
@@ -217,7 +217,7 @@ John: Yeah, she could **turn into** a real lifesaver during tough situations. Sp
 - upの感覚：
   - 「完成させる」という意味で
   - 「考えをまとめる」という意味に
-</p>
+
 </details><br><br> 
 
 George: Still **looking for** the best solution. The current one is about to **dry up**, and we need to **vamp up** our deployment process.
@@ -225,7 +225,7 @@ George: Still **looking for** the best solution. The current one is about to **d
 <audio controls src="../output/conversation-4/sentence-010.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 まだベストな解決策を探してるところだよ。現在のものはもうすぐ枯渇しそうで、デプロイメントプロセスを改善する必要があるんだ。
 
@@ -246,7 +246,7 @@ George: Still **looking for** the best solution. The current one is about to **d
 - upの感覚：
   - 「上へ」という方向性が
   - 「質を上げる」という意味に
-</p>
+
 </details><br><br> 
 
 John: Don't let me **butt in**, but I'd **advise against** using that new container service. Several startups **went under** using it.
@@ -254,7 +254,7 @@ John: Don't let me **butt in**, but I'd **advise against** using that new contai
 <audio controls src="../output/conversation-4/sentence-011.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 口を挟んで申し訳ないけど、その新しいコンテナサービスを使うのはお勧めしないよ。それを使っていくつかのスタートアップが潰れたんだ。
 
@@ -275,7 +275,7 @@ John: Don't let me **butt in**, but I'd **advise against** using that new contai
 - underの感覚：
   - 「下に沈む」という物理的な動きが
   - 「事業が失敗する」という意味に
-</p>
+
 </details><br><br> 
 
 George: Thanks for the heads up! Hey, want to **go out with** the team for lunch? I heard they **put out** a great spread at that new place.
@@ -283,7 +283,7 @@ George: Thanks for the heads up! Hey, want to **go out with** the team for lunch
 <audio controls src="../output/conversation-4/sentence-012.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 教えてくれてありがとう！ねえ、チームとランチに行かない？新しい店ですごくいい料理を出してるって聞いたよ。
 
@@ -298,7 +298,7 @@ George: Thanks for the heads up! Hey, want to **go out with** the team for lunch
 - outの感覚：
   - 「外に出す」という物理的な動きが
   - 「人々に提供する」という意味に
-</p>
+
 </details><br><br> 
 
 John: Sure, but let me **tie up** some loose ends first. I need to **cross off** a few items from my todo list and **send for** some documentation updates.
@@ -306,7 +306,7 @@ John: Sure, but let me **tie up** some loose ends first. I need to **cross off**
 <audio controls src="../output/conversation-4/sentence-013.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 いいね、でもまず未完了の仕事を片付けさせて。TODOリストからいくつかの項目を消して、ドキュメントの更新を依頼しないと。
 
@@ -327,7 +327,7 @@ John: Sure, but let me **tie up** some loose ends first. I need to **cross off**
 - forの感覚：
   - 「～を求めて」という方向性が
   - 「要請する」という意味に
-</p>
+
 </details><br><br> 
 
 George: No problem! I need to **fill up** my water bottle anyway. Oh, and I need to **cover for** Mike later - he **came down with** something.
@@ -335,7 +335,7 @@ George: No problem! I need to **fill up** my water bottle anyway. Oh, and I need
 <audio controls src="../output/conversation-4/sentence-014.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 問題ないよ！どうせ水筒に水を入れないといけないし。あ、それと後でマイクの代わりを務めないと - 彼が何かの病気にかかったみたいなんだ。
 
@@ -356,7 +356,7 @@ George: No problem! I need to **fill up** my water bottle anyway. Oh, and I need
 - down withの感覚：
   - downは「倒れる」という意味
   - withは「～と共に」で、「病気と共にある」状態を表現
-</p>
+
 </details><br><br> 
 
 John: That's rough. Hope he can **get away** from his desk and rest. By the way, did you **pick out** a theme for the next hackathon?
@@ -364,7 +364,7 @@ John: That's rough. Hope he can **get away** from his desk and rest. By the way,
 <audio controls src="../output/conversation-4/sentence-015.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 それは大変だ。彼が仕事から離れて休めるといいね。そういえば、次のハッカソンのテーマは選んだ？
 
@@ -379,7 +379,7 @@ John: That's rough. Hope he can **get away** from his desk and rest. By the way,
 - outの感覚：
   - 「外に出す」という動作が
   - 「多くの中から選び出す」という意味に
-</p>
+
 </details><br><br> 
 
 George: Still **working on** it. We need to **allow for** different skill levels and **aim at** increasing participation.
@@ -387,7 +387,7 @@ George: Still **working on** it. We need to **allow for** different skill levels
 <audio controls src="../output/conversation-4/sentence-016.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 まだ検討中だよ。様々なスキルレベルに対応して、参加者を増やすことを目指す必要があるんだ。
 
@@ -408,7 +408,7 @@ George: Still **working on** it. We need to **allow for** different skill levels
 - atの感覚：
   - 「～に向かって」という方向性が
   - 「目標とする」という意味に
-</p>
+
 </details><br><br> 
 
 John: Makes sense. Let's **press on** with the planning. We can **zero out** the previous budget and start fresh.
@@ -416,7 +416,7 @@ John: Makes sense. Let's **press on** with the planning. We can **zero out** the
 <audio controls src="../output/conversation-4/sentence-017.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 なるほど。計画を進めていこう。前回の予算をリセットして新しく始められるよ。
 
@@ -431,7 +431,7 @@ John: Makes sense. Let's **press on** with the planning. We can **zero out** the
 - outの感覚：
   - 「完全に」という意味を加え
   - 「完全にゼロにする」という意味に
-</p>
+
 </details><br><br> 
 
 George: Perfect! Let's **bring around** more teams this time. Last year's numbers didn't really **add up** to our expectations.
@@ -439,7 +439,7 @@ George: Perfect! Let's **bring around** more teams this time. Last year's number
 <audio controls src="../output/conversation-4/sentence-018.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 いいね！今回はもっと多くのチームを参加させよう。去年の数字は期待していたものと合わなかったからね。
 
@@ -454,7 +454,7 @@ George: Perfect! Let's **bring around** more teams this time. Last year's number
 - upの感覚：
   - 「上へ積み上げる」という動作が
   - 「計算が合う」「理にかなう」という意味に
-</p>
+
 </details><br><br> 
 
 John: True. We should **throw out** the old format and **turn to** something more engaging. Maybe **play with** new concepts?
@@ -462,7 +462,7 @@ John: True. We should **throw out** the old format and **turn to** something mor
 <audio controls src="../output/conversation-4/sentence-019.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 そうだね。古い形式は捨てて、もっと魅力的な何かに方向転換しよう。新しいコンセプトを試してみる？
 
@@ -483,7 +483,7 @@ John: True. We should **throw out** the old format and **turn to** something mor
 - withの感覚：
   - 「～と共に」という意味で
   - 「気軽に試してみる」というニュアンスを表現
-</p>
+
 </details><br><br> 
 
 George: Agreed! Well, I should **drop off** these reports before lunch. **Hang on** - did you **rule out** the virtual option?
@@ -491,7 +491,7 @@ George: Agreed! Well, I should **drop off** these reports before lunch. **Hang o
 <audio controls src="../output/conversation-4/sentence-020.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 同意！じゃあ、ランチの前にこれらのレポートを提出しないと。ちょっと待って - バーチャルオプションは除外したの？
 
@@ -512,7 +512,7 @@ George: Agreed! Well, I should **drop off** these reports before lunch. **Hang o
 - outの感覚：
   - 「外に出す」という方向性が
   - 「選択肢から取り除く」という意味に
-</p>
+
 </details><br><br> 
 
 John: Not yet, still need to **fit together** all the pieces. Let's **kick back** and discuss it over lunch!
@@ -520,7 +520,7 @@ John: Not yet, still need to **fit together** all the pieces. Let's **kick back*
 <audio controls src="../output/conversation-4/sentence-021.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 まだだよ、まだ全ての要素を組み合わせる必要があるんだ。ランチを食べながらリラックスして話し合おう！
 
@@ -535,7 +535,7 @@ John: Not yet, still need to **fit together** all the pieces. Let's **kick back*
 - backの感覚：
   - 「後ろに」という方向性が
   - 「リラックスした状態」を表現
-</p>
+
 </details><br><br> 
 
 George: Sounds good! Just don't let me **freeze over** waiting for you outside! The weather's starting to **cloud over**.
@@ -543,7 +543,7 @@ George: Sounds good! Just don't let me **freeze over** waiting for you outside! 
 <audio controls src="../output/conversation-4/sentence-022.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 いいね！でも外で待ってて凍えないようにしてよ！天気が曇ってきたみたいだから。
 
@@ -558,7 +558,7 @@ George: Sounds good! Just don't let me **freeze over** waiting for you outside! 
 - overの感覚：
   - 「上から覆う」という方向性が
   - 「雲が空を覆う」という意味に
-</p>
+
 </details><br><br> 
 
 John: I'll be quick! Just need to **put by** some documentation and **reel in** a few more sponsors!
@@ -566,7 +566,7 @@ John: I'll be quick! Just need to **put by** some documentation and **reel in** 
 <audio controls src="../output/conversation-4/sentence-023.mp3"></audio>
 
 <details><summary>Details</summary>
-<p>
+
 
 すぐ行くよ！ドキュメントを保管して、もう少しスポンサーを確保するだけだから！
 
@@ -581,5 +581,5 @@ John: I'll be quick! Just need to **put by** some documentation and **reel in** 
 - inの感覚：
   - 「中に引き込む」という物理的な動作が
   - 「（魚を釣るように）獲得する」という意味に
-</p>
+
 </details><br><br> 
